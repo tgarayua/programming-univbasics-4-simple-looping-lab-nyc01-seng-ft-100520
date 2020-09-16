@@ -20,9 +20,9 @@ end
 
 def output_array(array)
   counter = 0
-
- while counter < number do
-   puts message
-   counter += 1
- end
+ 
+  while array[counter] do
+    puts array[counter]
+    counter += 1
+  end
 end
