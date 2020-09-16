@@ -11,5 +11,10 @@ end
 
 def loop_message_n_times(message, number)
   message = "Hello Moon."
+  p message
+  p message
+  p message
+  p message 
+  p message
 end
   
