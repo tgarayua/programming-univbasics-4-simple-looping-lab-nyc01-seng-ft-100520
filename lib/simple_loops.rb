@@ -11,10 +11,6 @@ end
 
 def loop_message_n_times(message, number)
   message = "Hello Moon."
-  print message
-  print message
-  print message
-  print message 
-  print message
+ "#{message to be output #{number} times"
 end
   
