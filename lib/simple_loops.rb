@@ -13,5 +13,6 @@ def loop_message_n_times(message, number)
   message = "Hello Moon." 
  while message < nummber.length do
    puts message
+ end
 end
   
