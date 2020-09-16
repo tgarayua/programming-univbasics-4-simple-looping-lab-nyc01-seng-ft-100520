@@ -13,8 +13,8 @@ def loop_message_n_times(message, number)
   message = "Hello Moon."
   print message
   print message
-  p message
-  p message 
-  p message
+  print message
+  print message 
+  print message
 end
   
