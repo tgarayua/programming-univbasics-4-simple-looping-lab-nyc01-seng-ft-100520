@@ -11,7 +11,7 @@ end
 
 def loop_message_n_times(message, number)
   while message[number] do
-  puts message[counter]
-  counter += 1
+  puts message[number]
+  number += 1
 end
   
